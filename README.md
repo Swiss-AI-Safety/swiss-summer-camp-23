@@ -1,4 +1,4 @@
-# summer-camp-23
+# Summer Camp 2023
 
 ## Installation
 
@@ -7,6 +7,8 @@ You can run the notebook in Google Colab or clone the repository
 ```bash
 git clone git@github.com:Swiss-AI-Safety/summer-camp-23.git
 ```
+
+# Run the notebooks in Google Collab
 
 ## Day 1
 
