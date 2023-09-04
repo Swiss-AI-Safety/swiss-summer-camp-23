@@ -3,7 +3,7 @@
 ## Installation
 
 You can run the notebook in Google Colab or locally.
-To run the notebook [locally](##Run-the-notebook-locally)
+To run the notebook [locally](#run-locally)
 
 # Run the notebooks in Google Collab
 
@@ -20,7 +20,7 @@ Run the notebook in Google Colab:
 
 To be announced
 
-## Run the notebook locally
+## Run locally
 
 If you want to run them locally, you can clone the repository
 
