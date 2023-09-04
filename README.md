@@ -24,7 +24,7 @@ To be announced
 If you want to run them locally, you can clone the repository
 
 ```bash
-git clone git@github.com:Swiss-AI-Safety/swiss-summer-camp-23.git
+git clone https://github.com/Swiss-AI-Safety/swiss-summer-camp-23.git
 cd swiss-summer-camp-23
 conda create --name SAIS python=3.9 -y
 conda activate SAIS
