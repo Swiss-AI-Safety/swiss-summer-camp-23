@@ -2,11 +2,8 @@
 
 ## Installation
 
-You can run the notebook in Google Colab or clone the repository
-
-```bash
-git clone git@github.com:Swiss-AI-Safety/summer-camp-23.git
-```
+You can run the notebook in Google Colab or locally.
+To run the notebook [locally](##Run-the-notebook-locally)
 
 # Run the notebooks in Google Collab
 
@@ -22,3 +19,16 @@ Run the notebook in Google Colab:
 ## Day 2
 
 To be announced
+
+## Run the notebook locally
+
+If you want to run them locally, you can clone the repository
+
+```bash
+git clone git@github.com:Swiss-AI-Safety/summer-camp-23.git
+cd summer-camp-23
+conda create --name SAIS python=3.9 -y
+conda activate SAIS
+conda install pytorch torchvision torchaudio cpuonly -c pytorch -y
+pip install -r requirements.txt
+```
