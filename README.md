@@ -42,8 +42,8 @@ Run the notebook in Google Colab:
   <summary>
     <h3>Day 3 - Transformers</h3>
   </summary>
-  
-1. [Introduction to Transformers](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day03/transformer.ipynb)
+
+[Introduction to Transformers](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day03/transformer.ipynb)
 
 </details>
 
