@@ -1,14 +1,13 @@
 # Summer Camp 2023
 
-## Installation
+## Program
 
-You can run the notebook in Google Colab or [locally](#run-locally).
+<details>
+  <summary>
+    <h3>Day 1 - Intro</h3>
+  </summary>
 
-# Run the notebooks in Google Collab
-
-## Day 1
-
-### Technical
+#### Technical
 
 Run the notebook in Google Colab:
 1. [Exercise 1 Pytorch Introcution](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day01/ex_1_numpy_to_pytorch.ipynb)
@@ -17,25 +16,39 @@ Run the notebook in Google Colab:
 4. [Exercise 4 Einops for Deep Learning](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day01/ex_4_einops-for-deep-learning.ipynb)
 5. [Exercise 5 Bonus Hyperparameters](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day01/ex_5_bonus_hyperparameters.ipynb)
 
-### Conceptual
+#### Conceptual
 
 [Introduction to AI Safety](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/conceptual/1._Introduction_to_AI_Safety.pdf)
 
-### Governance
+#### Governance
 
 [Introduction to AIS and AI Governance](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/governance/1.Introduction_to_AIS_and_AI_Gov.pdf)
 
-## Day 2
+</details>
+
+<details open>
+  <summary>
+    <h3>Day 2 - RL</h3>
+  </summary>
 
 1. Theory Reinforcement Learning: [overleaf](https://www.overleaf.com/read/gtbwdmkgkpjq) | [pdf](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/tree/main/day02/theory_1_RL_Lecture_Swiss_AI_Safety_Camp-2.pdf) | [book reference](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 2. Exercice Deep Q Learning: [google colab](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day02/ex_1_reinforcement_q_learning.ipynb)
 3. Exercice Policy Gradient: [google colab](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day02/ex_2_Policy_Gradient_with_Cartpole_and_PyTorch.ipynb)
 
-## Day 3
+</details>
 
+<details>
+  <summary>
+    <h3>Day 3 - Transformers</h3>
+  </summary>
 To be announced
+</details>
 
-## Run locally
+## Installation
+
+You can run the notebook in [Google Colab](https://githubtocolab.com/Swiss-AI-Safety/swiss-summer-camp-23) or [locally](#run-locally).
+
+### Run locally
 
 If you want to run them locally, you can clone the repository
 
