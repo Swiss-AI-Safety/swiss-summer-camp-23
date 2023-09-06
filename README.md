@@ -19,11 +19,11 @@ Run the notebook in Google Colab:
 
 ### Conceptual
 
-[Presentation](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/tree/main/conceptual/1._Introduction_to_AI_Safetyy.pdf)
+[Introduction to AI Safety](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/conceptual/1._Introduction_to_AI_Safety.pdf)
 
 ### Governance
 
-[Presentation](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/tree/main/governance/1.Introduction_to_AIS_and_AI_Gov.pdf)
+[Introduction to AIS and AI Governance](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/governance/1.Introduction_to_AIS_and_AI_Gov.pdf)
 
 ## Day 2
 
