@@ -26,7 +26,7 @@ Run the notebook in Google Colab:
 
 </details>
 
-<details open>
+<details close>
   <summary>
     <h3>Day 2 - RL</h3>
   </summary>
@@ -38,11 +38,12 @@ Run the notebook in Google Colab:
 
 </details>
 
-<details>
+<details open>
   <summary>
     <h3>Day 3 - Transformers</h3>
   </summary>
-To be announced
+1. [Introduction to Transformers](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day03/transformer.ipynb)
+
 </details>
 
 ## Installation
