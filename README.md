@@ -17,7 +17,7 @@ Run the notebook in Google Colab:
 
 ## Day 2
 
-1. Theory Reinforcment Learning: [overleaf](https://www.overleaf.com/read/gtbwdmkgkpjq) | [pdf](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/tree/main/day02/theory_1_RL_Lecture_Swiss_AI_Safety_Camp-2.pdf) | [book reference](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+1. Theory Reinforcement Learning: [overleaf](https://www.overleaf.com/read/gtbwdmkgkpjq) | [pdf](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/tree/main/day02/theory_1_RL_Lecture_Swiss_AI_Safety_Camp-2.pdf) | [book reference](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 2. Exercice Deep Q Learning: [google colab](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day02/ex_1_reinforcement_q_learning.ipynb)
 3. Exercice Policy Gradient: [google colab](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day02/ex_2_Policy_Gradient_with_Cartpole_and_PyTorch.ipynb)
 
