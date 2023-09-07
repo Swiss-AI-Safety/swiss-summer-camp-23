@@ -44,6 +44,7 @@ Run the notebook in Google Colab:
   </summary>
 
 [Introduction to Transformers](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day03/transformer.ipynb)
+[Play with Tokenizer](https://platform.openai.com/tokenizer)
 
 </details>
 
