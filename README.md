@@ -36,6 +36,11 @@ Run the notebook in Google Colab:
 3. Reading (chapter 13 til the end of 13.3): [RL Intro Policy Optimization](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf) 
 4. Exercice Policy Gradient: [google colab](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day02/ex_2_Policy_Gradient_with_Cartpole_and_PyTorch.ipynb)
 
+#### Conceptual
+
+[RL and problems](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/conceptual/2._RL_and_problems.pdf)
+
+
 </details>
 
 <details open>
@@ -46,6 +51,10 @@ Run the notebook in Google Colab:
 [Introduction to Transformers](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day03/transformer.ipynb)
 
 [Play with Tokenizer](https://platform.openai.com/tokenizer)
+
+#### Governance
+
+[2.Understanding_the_ecosystem](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/governance/2.Understanding_the_ecosystem.ipynb)
 
 </details>
 
