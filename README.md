@@ -31,6 +31,8 @@ Run the notebook in Google Colab:
     <h3>Day 2 - RL</h3>
   </summary>
 
+#### Technical
+
 1. Theory Reinforcement Learning: [overleaf](https://www.overleaf.com/read/gtbwdmkgkpjq) | [pdf](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/tree/main/day02/theory_1_RL_Lecture_Swiss_AI_Safety_Camp-3.pdf) | [book reference](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 2. Exercice Deep Q Learning: [google colab](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day02/ex_1_reinforcement_q_learning.ipynb)
 3. Reading (chapter 13 til the end of 13.3): [RL Intro Policy Optimization](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf) 
@@ -47,6 +49,8 @@ Run the notebook in Google Colab:
   <summary>
     <h3>Day 3 - Transformers</h3>
   </summary>
+
+#### Technical
 
 [Introduction to Transformers](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day03/transformer.ipynb)
 
