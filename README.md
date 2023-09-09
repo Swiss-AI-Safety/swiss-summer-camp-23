@@ -45,7 +45,7 @@ Run the notebook in Google Colab:
 
 </details>
 
-<details open>
+<details close>
   <summary>
     <h3>Day 3 - Transformers</h3>
   </summary>
@@ -58,7 +58,24 @@ Run the notebook in Google Colab:
 
 #### Governance
 
-[2.Understanding_the_ecosystem](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/governance/2.Understanding_the_ecosystem.ipynb)
+[2.Understanding_the_ecosystem](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/governance/2.Understanding_the_ecosystem.pdf)
+
+</details>
+
+<details open>
+  <summary>
+    <h3>Day 5 - Prediction and Interpretability</h3>
+  </summary>
+
+#### Conceptual
+
+[3. Prediction](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/conceptual/3.Prediction.pdf)
+
+#### Technical
+
+[Introduction to Transformers](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day03/transformer.ipynb)
+
+[Play with Tokenizer](https://platform.openai.com/tokenizer)
 
 </details>
 
