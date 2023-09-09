@@ -63,9 +63,10 @@ Run the notebook in Google Colab:
 </details>
 
 <details open>
-  <summary>
+<summary>
     <h3>Day 4 - Prediction and Interpretability</h3>
-  </summary>
+</summary>
+ 
 
 #### Conceptual
 
