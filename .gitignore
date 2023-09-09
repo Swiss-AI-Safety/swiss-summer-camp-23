@@ -1,4 +1,6 @@
 adversarial_attacks/*
+# torch checkpoints
+*.pth
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

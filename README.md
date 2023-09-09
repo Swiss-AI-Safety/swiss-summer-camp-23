@@ -64,7 +64,7 @@ Run the notebook in Google Colab:
 
 <details open>
   <summary>
-    <h3>Day 5 - Prediction and Interpretability</h3>
+    <h3>Day 4 - Prediction and Interpretability</h3>
   </summary>
 
 #### Conceptual
@@ -73,9 +73,7 @@ Run the notebook in Google Colab:
 
 #### Technical
 
-[Introduction to Transformers](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day03/transformer.ipynb)
-
-[Play with Tokenizer](https://platform.openai.com/tokenizer)
+[Induction Circuits](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day04/induction-circuits.ipynb)
 
 </details>
 
