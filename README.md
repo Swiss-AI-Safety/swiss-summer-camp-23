@@ -45,7 +45,7 @@ Run the notebook in Google Colab:
 
 </details>
 
-<details open>
+<details>
   <summary>
     <h3>Day 3 - Transformers</h3>
   </summary>
@@ -59,6 +59,21 @@ Run the notebook in Google Colab:
 #### Governance
 
 [2.Understanding_the_ecosystem](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/governance/2.Understanding_the_ecosystem.ipynb)
+
+</details>
+
+<details open>
+  <summary>
+    <h3>Day 4 - Interpretability</h3>
+  </summary>
+
+#### Technical
+
+[Introduction to mechanistic interpretability - Induction circuits](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day04/induction-circuits.ipynb)
+
+#### Conceptual
+
+*Will be uploaded soon*
 
 </details>
 
