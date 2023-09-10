@@ -78,6 +78,28 @@ Run the notebook in Google Colab:
 
 </details>
 
+<details open>
+<summary>
+    <h3>Day 5 - RLHF and Adversarial attacks</h3>
+</summary>
+ 
+
+#### Conceptual
+
+TBD
+
+#### Technical 
+
+[Policy Gradient and RLHF from Page 23 ](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/tree/main/day05/RLHF_Lecture_Swiss_AI_Safety_Camp.pdf)
+
+[Adversarial attacks]
+
+[Jailbreak challenge](https://gandalf.lakera.ai/)
+
+</details>
+
+
+
 ## Installation
 
 You can run the notebook in [Google Colab](https://githubtocolab.com/Swiss-AI-Safety/swiss-summer-camp-23) or [locally](#run-locally).
