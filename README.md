@@ -101,9 +101,9 @@ Run the notebook in Google Colab:
 
 [Ex 2: Fast Gradient Sign Method notebook](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day05/ex2-adversarial-attacks.ipynb)
 
-[Gandalf Jailbreak challenge](https://gandalf.lakera.ai/)
+[Challenge: Gandalf Jailbreak challenge](https://gandalf.lakera.ai/)
 
-[LLM attacks automatic jailbreak](https://llm-attacks.org/)
+[Reading + code: LLM attacks automatic jailbreak](https://llm-attacks.org/)
 
 </details>
 
