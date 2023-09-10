@@ -90,11 +90,11 @@ Run the notebook in Google Colab:
 
 #### Technical Policy Gradient and RLHF
 
-[Policy Gradient and RLHF from Page 23 ](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/tree/main/day05/RLHF_Lecture_Swiss_AI_Safety_Camp.pdf)
+[Policy Gradient and RLHF from Page 23 ](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/tree/main/day05/RL_Lecture_Swiss_AI_Safety_Camp-7.pdf)
 
 #### Technical Adversarial attacks
 
-[Adversarial attacks]
+[Adversarial attacks](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day04/ex-adversarial-attacks.ipynb)
 
 [Jailbreak challenge](https://gandalf.lakera.ai/)
 
