@@ -99,7 +99,7 @@ Run the notebook in Google Colab:
 
 #### Technical Adversarial attacks
 
-[Fast Gradient Sign Method notebook](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day05/ex-adversarial-attacks.ipynb)
+[Ex 2: Fast Gradient Sign Method notebook](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day05/ex2-adversarial-attacks.ipynb)
 
 [Gandalf Jailbreak challenge](https://gandalf.lakera.ai/)
 
