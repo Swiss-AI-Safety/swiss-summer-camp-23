@@ -94,13 +94,13 @@ Run the notebook in Google Colab:
 
 #### Technical Adversarial attacks
 
-[Adversarial attacks](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day05/ex-adversarial-attacks.ipynb)
+[Fast Gradient Sign Method notebook](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day05/ex-adversarial-attacks.ipynb)
 
-[Jailbreak challenge](https://gandalf.lakera.ai/)
+[Gandalf Jailbreak challenge](https://gandalf.lakera.ai/)
+
+[LLM attacks automatic jailbreak](https://llm-attacks.org/)
 
 </details>
-
-
 
 ## Installation
 
