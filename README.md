@@ -94,7 +94,7 @@ Run the notebook in Google Colab:
 
 #### Technical Adversarial attacks
 
-[Adversarial attacks](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day04/ex-adversarial-attacks.ipynb)
+[Adversarial attacks](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day05/ex-adversarial-attacks.ipynb)
 
 [Jailbreak challenge](https://gandalf.lakera.ai/)
 
