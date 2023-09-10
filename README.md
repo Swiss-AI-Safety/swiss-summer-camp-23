@@ -62,7 +62,7 @@ Run the notebook in Google Colab:
 
 </details>
 
-<details open>
+<details close>
 <summary>
     <h3>Day 4 - Prediction and Interpretability</h3>
 </summary>
@@ -86,11 +86,13 @@ Run the notebook in Google Colab:
 
 #### Conceptual
 
-TBD
+[4. Scalable Oversight](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/conceptual/4.Scalable_Oversight.pdf)
 
-#### Technical 
+#### Technical Policy Gradient and RLHF
 
 [Policy Gradient and RLHF from Page 23 ](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/tree/main/day05/RLHF_Lecture_Swiss_AI_Safety_Camp.pdf)
+
+#### Technical Adversarial attacks
 
 [Adversarial attacks]
 
