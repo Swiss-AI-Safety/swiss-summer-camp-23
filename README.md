@@ -89,13 +89,13 @@ Run the notebook in Google Colab:
 
 #### Technical Policy Gradient and RLHF
 
-[Policy Gradient and RLHF from Page 23 ](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/tree/main/day05/RL_Lecture_Swiss_AI_Safety_Camp-7.pdf)
+[Slides: Policy Gradient and RLHF from Page 23 ](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/tree/main/day05/RL_Lecture_Swiss_AI_Safety_Camp-7.pdf)
 
-[Ex 1 RLHF](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day05/ex1_RLHF.ipynb)
+[Ex 1: RLHF](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day05/ex1_RLHF.ipynb)
 
 [Reading: Secrets of RLHF in Large Language Models Part I: PPO](https://arxiv.org/pdf/2307.04964.pdf)
 
-[Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325.pdf)
+[Reading: Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325.pdf)
 
 #### Technical Adversarial attacks
 
