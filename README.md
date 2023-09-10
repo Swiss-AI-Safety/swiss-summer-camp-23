@@ -82,7 +82,6 @@ Run the notebook in Google Colab:
 <summary>
     <h3>Day 5 - RLHF and Adversarial attacks</h3>
 </summary>
- 
 
 #### Conceptual
 
@@ -91,6 +90,10 @@ Run the notebook in Google Colab:
 #### Technical Policy Gradient and RLHF
 
 [Policy Gradient and RLHF from Page 23 ](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/tree/main/day05/RL_Lecture_Swiss_AI_Safety_Camp-7.pdf)
+
+[Reading: Secrets of RLHF in Large Language Models Part I: PPO](https://arxiv.org/pdf/2307.04964.pdf)
+
+[Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325.pdf)
 
 #### Technical Adversarial attacks
 
