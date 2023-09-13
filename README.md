@@ -133,6 +133,20 @@ Run the notebook in Google Colab:
 
 </details>
 
+<details close>
+<summary>
+    <h3>Day 8 - Projects</h3>
+</summary>
+
+</details>
+
+<details close>
+<summary>
+    <h3>Day 9 - Projects</h3>
+</summary>
+
+</details>
+
 ## Installation
 
 You can run the notebook in [Google Colab](https://githubtocolab.com/Swiss-AI-Safety/swiss-summer-camp-23) or [locally](#run-locally).
