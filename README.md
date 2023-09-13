@@ -78,7 +78,7 @@ Run the notebook in Google Colab:
 
 </details>
 
-<details>
+<details close>
 <summary>
     <h3>Day 5 - RLHF and Adversarial attacks</h3>
 </summary>
@@ -106,6 +106,30 @@ Run the notebook in Google Colab:
 [Challenge: Gandalf Jailbreak challenge](https://gandalf.lakera.ai/)
 
 [Reading + code: LLM attacks automatic jailbreak](https://llm-attacks.org/)
+
+</details>
+
+<details open>
+<summary>
+    <h3>Day 6 - Governance Projects/h3>
+</summary>
+
+[Project](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/governance/3.Big-day.pdf
+
+</details>
+
+<details>
+<summary>
+    <h3>Day 7 - Conceptual Interpretability and Compute Governance</h3>
+</summary>
+
+#### Conceptual
+
+[Interpretability](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/conceptual/5.Interpretability.pdf)
+
+#### Governance
+
+[Compute Governance](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/governance/4.Compute-governance.pdf)
 
 </details>
 
