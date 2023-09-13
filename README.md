@@ -109,16 +109,16 @@ Run the notebook in Google Colab:
 
 </details>
 
-<details open>
+<details close>
 <summary>
-    <h3>Day 6 - Governance Projects/h3>
+    <h3>Day 6 - Governance Projects</h3>
 </summary>
 
 [Project](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/governance/3.Big-day.pdf
 
 </details>
 
-<details>
+<details open>
 <summary>
     <h3>Day 7 - Conceptual Interpretability and Compute Governance</h3>
 </summary>
