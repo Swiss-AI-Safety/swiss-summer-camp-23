@@ -114,11 +114,11 @@ Run the notebook in Google Colab:
     <h3>Day 6 - Governance Projects</h3>
 </summary>
 
-[Project](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/governance/3.Big-day.pdf
+[Project](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/governance/3.Big-day.pdf)
 
 </details>
 
-<details open>
+<details>
 <summary>
     <h3>Day 7 - Conceptual Interpretability and Compute Governance</h3>
 </summary>
@@ -130,20 +130,6 @@ Run the notebook in Google Colab:
 #### Governance
 
 [Compute Governance](https://github.com/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/governance/4.Compute-governance.pdf)
-
-</details>
-
-<details close>
-<summary>
-    <h3>Day 8 - Projects</h3>
-</summary>
-
-</details>
-
-<details close>
-<summary>
-    <h3>Day 9 - Projects</h3>
-</summary>
 
 </details>
 
