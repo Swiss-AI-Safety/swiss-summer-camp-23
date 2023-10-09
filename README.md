@@ -10,7 +10,7 @@
 #### Technical
 
 Run the notebook in Google Colab:
-1. [Exercise 1 Pytorch Introcution](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day01/ex_1_numpy_to_pytorch.ipynb)
+1. [Exercise 1 Pytorch Introduction](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day01/ex_1_numpy_to_pytorch.ipynb)
 2. [Exercise 2 Optimization](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day01/ex_2_optimization.ipynb)
 3. [Exercise 3 Einops Basics](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day01/ex_3_einops-basics.ipynb)
 4. [Exercise 4 Einops for Deep Learning](https://colab.research.google.com/github/Swiss-AI-Safety/swiss-summer-camp-23/blob/main/day01/ex_4_einops-for-deep-learning.ipynb)
